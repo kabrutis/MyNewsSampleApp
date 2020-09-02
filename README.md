@@ -1,0 +1,38 @@
+MyNews Sample app
+=======================================
+
+
+## Prerequisites
+* Android
+* Minimum android version support : 21 (Lollipop)
+* Maximum android version support : Latest android version
+* RAM : 512 MB
+* ROM : 512 MB
+* Internet only for the first time
+
+## Developing tools & SDKs
+* [Android Studio](https://developer.android.com/sdk/installing/studio.html) 3.x
+* JDK 8
+* Android SDK 28
+* Kotlin
+* Androidx
+
+## Code Style
+* MVVM (Model View ViewModel)
+* Data binding
+* View binding
+* Dagger 2
+* Tools attributes
+* Android JetPack components
+* Tab size : 4
+* Indent size : 4
+
+## Branches
+* master
+
+## Third Party libraries
+* [Glide](https://github.com/bumptech/glide)
+* [Retrofit](https://square.github.io/retrofit/)
+* [Dagger 2](https://dagger.dev/)
+
+
